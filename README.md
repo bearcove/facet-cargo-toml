@@ -1,5 +1,15 @@
 # facet-cargo-toml
 
+## This repository has moved
+
+`facet-cargo-toml` is now maintained in the Facet monorepo:
+
+- Repository: <https://github.com/facet-rs/facet>
+- Crate source: <https://github.com/facet-rs/facet/tree/main/facet-cargo-toml>
+
+Please open future issues and pull requests against `facet-rs/facet`. This
+repository is kept for historical context and will be archived.
+
 Typed Cargo.toml and Cargo.lock parser using [facet](https://github.com/facet-rs/facet).
 
 ## Features
